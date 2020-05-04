@@ -1,0 +1,5 @@
+coba lagi
+
+- js : es6, framework js
+- php CI
+- php laravel
